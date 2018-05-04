@@ -1,0 +1,22 @@
+# Blender MTL File: 'SAL-10.blend'
+# Material Count: 2
+
+newmtl Materiais.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.240000 0.240000 0.240000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/salatiel/Documentos/salatiel/mapmodels/naves_sal/SAL10.png
+map_Bump -bm 0.100000 /home/salatiel/Documentos/salatiel/mapmodels/naves_sal/SAL10.png
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
