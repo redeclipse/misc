@@ -1,0 +1,2 @@
+Model and textures by Ulf (opengameart.org), licence: CC_BY 3.0
+reworked for RE by Dziq (lod, collider, texture tweaks)
